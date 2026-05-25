@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+data/*.csv
+models/*.joblib
+models/*.json
+!data/.gitkeep
+!models/.gitkeep
+.ipynb_checkpoints/
